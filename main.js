@@ -1,5 +1,5 @@
-import { Client } from 'discord.js';
-const bot = new Client();
+const Discord = require('discord.js');
+const bot = new Discord.Client();
 
 const token = "OTIyMjI0MjExNzEwMzI4ODY1.Yb-WOg.4gcsSWk4nenYRma4QolOeAguNjg";
 
